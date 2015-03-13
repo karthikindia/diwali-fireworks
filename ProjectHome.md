@@ -1,0 +1,1 @@
+Diwali Fireworks Plugin for Wordpress
